@@ -1,0 +1,10 @@
+https://web.telegram.org/k/#@test20250212_bot
+
+pip install python-telegram-bot yt-dlp
+
+https://www.loom.com/share/e196f1386edc4d2cba97af94fab342a0?sid=c6cc8cd8-8349-4ce9-b0f6-c8717b096e14
+
+
+sudo apt update
+sudo apt install ffmpeg -y
+
